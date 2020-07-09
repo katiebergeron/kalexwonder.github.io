@@ -13,7 +13,7 @@ may find it's way in here, but for now this is what I sticking too.
 
 So with that, I start today talking about the Brave browser. I discovered
 this browser in 2019 while playing one of my daily crypto collections
-on FreeBitcoin on my mobile. I was skeptical at first as to why a browser was advertising on a crypto site, as you can find many all kinds ads for lots of sketchy things. But I decided to give it a try and boy was I surprised. This browser is amazing and if you haven't tried it out here is a link to get you started: https://brave.com/kat671
+on FreeBitcoin on my mobile. I was skeptical at first as to why a browser was advertising on a crypto site, as you can find many all kinds ads for lots of sketchy things. But I decided to give it a try and boy was I surprised. This browser is amazing and if you haven't tried it out here is a link to get you started: (https://brave.com/kat671)
 
 Why do I choose to use Brave everyday over other browsers? The answer is simple.
 The privacy in this browser is tight and allows a user to choose
